@@ -1,7 +1,7 @@
 
 <h1 align="center">🌐 Domain to IP</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Domain_To_IP-green?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Python-green?style=flat-square&logo=python" />
   <img src="https://img.shields.io/badge/By-DARK--NET--403-black?style=flat-square" />
 </p>
 
@@ -21,7 +21,13 @@
 
 ### 🚀 How to Use
 ```bash
+pkg update
+pkg upgrade 
+pkg Install git -y
+pkg install python -y
 pip install colorama pyfiglet
+git clone https://github.com/DARK-NET-403/Domain_To_ip
+cd Domain_To_ip
 python Domain_to_IP.py
 ```
 
