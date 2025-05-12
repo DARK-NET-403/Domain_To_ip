@@ -28,7 +28,7 @@ pkg install python -y
 pip install colorama pyfiglet
 git clone https://github.com/DARK-NET-403/Domain_To_ip
 cd Domain_To_ip
-python Domain_to_IP.py
+python Domain_To_IP.py
 ```
 
 ---
